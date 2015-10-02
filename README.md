@@ -3,3 +3,5 @@
 
 ##メンバー
 *testmemmber
+
+＊macで作業
