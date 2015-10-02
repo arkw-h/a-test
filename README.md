@@ -4,4 +4,4 @@
 ##メンバー
 *testmemmber
 
-＊macで作業
+＊macで作業１
